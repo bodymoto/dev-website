@@ -1,9 +1,11 @@
 # helloevan.dev | first website
-Launched during Feb 2022. My first website and development experience inside an index.html file.<br/>
-Written in HTML/CSS with a single JS script sourced by third party, before I learned the JavaScript language.<br/>
-Local development supported by VScode Liveserver extension.<br/>
+Launched during Feb 2022.<br/>
+My first website and development experience.<br/>
+Written in HTML/CSS, before I knew JavaScript.<br/>
+Local webserver ran via VScode Liveserver extension.<br/>
 <br/>
-We all start somewhere. I love it.<br/>
+We all start somewhere.<br/>
+I love it!<br/>
 ### TO PREVIEW
 #### Run command:
 ```python3 -m http.server 8000```<br/>
