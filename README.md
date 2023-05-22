@@ -1,4 +1,4 @@
-# helloevan.dev | first website
+# First Website (originally helloevan.dev)
 Launched during Feb 2022.<br/>
 My first website and development experience.<br/>
 Written in HTML/CSS, before I knew JavaScript.<br/>
