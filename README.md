@@ -1,11 +1,8 @@
-# First Website (originally helloevan.dev)
-Launched during Feb 2022.<br/>
-My first website and development experience.<br/>
-Written in HTML/CSS, before I knew JavaScript.<br/>
-<br/>
-We all start somewhere.<br/>
-I love it!<br/>
-### TO PREVIEW
-#### Run command:
+### My Initial Website Journey
+
+Embarked on my web development journey in February 2022, creating my very first website, originally known as helloevan.dev. Despite its HTML/CSS foundation, this project holds a special place as my initial foray into the world of development. A testament to the fact that we all begin somewhere, and my love for the craft continues to grow!
+
+#### (!) RUN:
 ```python3 -m http.server 8000```<br/>
-And visit ```localhost:8000```
+#### (!) VISIT: 
+```localhost:8000```
