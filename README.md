@@ -1,8 +1,9 @@
-### My Initial Website Journey
+### My first website journey
+<br />
 
-Originally known as helloevan.dev, in February 2022, I embarked on my web development journey creating my very first website.<br/>
-With an HTML/CSS foundation, this project holds special meaning in my dev experience.<br/>
-A real testament to the fact that we all begin somewhere, and that my love for the craft has only continued to grow!
+Originally registered as helloevan.dev, in early 2022, I developed by first website. <br />
+
+The site uses HTML & CSS. This project holds special meaning because it stands as a testament my beginnings, & that my love for the craft has only continued to grow! <br /><br />
 
 #### (!) RUN:
 ```python3 -m http.server 8000```<br/>
