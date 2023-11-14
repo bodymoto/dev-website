@@ -1,4 +1,4 @@
-### My first website journey
+### My first website
 <br />
 
 Originally registered as helloevan.dev, in early 2022, I developed by first website. <br />
