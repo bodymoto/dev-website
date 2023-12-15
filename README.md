@@ -1,8 +1,8 @@
-Originally registered as helloevan.dev, in early 2022, I developed by first website. <br />
+First website development. <br />
+HTML & CSS only.<br />
+This project holds special meaning because it represents new beginnings!<br />
 
-The site uses HTML & CSS. This project holds special meaning because it stands as a testament my beginnings, & that my love for the craft has only continued to grow! <br /><br />
-
-#### (!) RUN:
+*Run:*
 ```python3 -m http.server 8000```<br/>
-#### (!) VISIT: 
+*Visit:*
 ```localhost:8000```
