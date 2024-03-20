@@ -1,4 +1,4 @@
-My first developed website using only HTML & CSS.<br />
+Website developed using only HTML & CSS.<br />
 This project holds special meaning because it represents new beginnings.<br />
 
 *Run:*
